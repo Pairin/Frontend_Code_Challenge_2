@@ -1,6 +1,6 @@
 # Challenge
 
-Build a clone of the [Google Trends visualizer](https://trends.google.com/trends/hottrends/visualize) using pure React that displays random animal names.
+Build a clone of the [Google Trends visualizer](https://trends.google.com/trends/hottrends/visualize?pn=p1&nrow=5&ncol=5) using pure React that displays random animal names.
 
 ## Requirements
  - A 5x5 grid of tiles showing current Trends
