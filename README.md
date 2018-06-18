@@ -16,7 +16,6 @@ Bonus requirements are all completely optional but will show us extra initiative
   - Example: Add the option to make it anywhere from 1x1 to 20x20
  - Change Grid size automatically on window resize (Responsiveness)
  - Ability to change dataset (From animals to something else)
- - Anything else that enhances the features
 
 ## Evaluation Criteria
  - Logic
