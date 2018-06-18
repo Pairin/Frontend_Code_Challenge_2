@@ -6,6 +6,7 @@ Build a clone of the [Google Trends visualizer](https://trends.google.com/trends
  - A 5x5 grid of tiles showing current Trends
  - Each tile should type and animate like the [Google Trends visualizer](https://trends.google.com/trends/hottrends/visualize?pn=p1&nrow=5&ncol=5)
  - Each time a tile is generated it should be a random color from a fixed set of colors (You can use the same colors as google trends if you want)
+ - Use only React. No other runtime libraries. (Webpack and other build tools are fine)
 
 ## Bonus Requirements
 Bonus requirements are all completely optional but will show us extra initiative and your skills.
