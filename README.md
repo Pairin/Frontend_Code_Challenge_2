@@ -4,7 +4,7 @@ Build a clone of the [Google Trends visualizer](https://trends.google.com/trends
 
 ## Requirements
  - A 5x5 grid of tiles showing current Trends
- - Each tile should type and animate like the example page
+ - Each tile should type and animate like the [Google Trends visualizer](https://trends.google.com/trends/hottrends/visualize?pn=p1&nrow=5&ncol=5)
  - Each time a tile is generated it should be a random color from a fixed set of colors (You can use the same colors as google trends if you want)
 
 ## Bonus Requirements
