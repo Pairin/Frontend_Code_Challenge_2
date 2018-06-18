@@ -21,8 +21,8 @@ Bonus requirements are all completely optional but will show us extra initiative
  - Logic
   - We are interested in how well you handle logic such as randomization and filtering of data
  - CSS
-  - How well and advanced your css techniques are.
-  - Bonus points for using CSS Grid
+   - How well and advanced your css techniques are.
+   - Bonus points for using CSS Grid
  - React
   - How well your react fundementals are and how well you separate functionality into components.
 
