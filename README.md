@@ -13,9 +13,8 @@ Bonus requirements are all completely optional but will show us extra initiative
 
  - Completely Random Colors with no adjacent tiles being the same color ([See Example](./no_adjacent.png))
  - Option to set grid size
-  - Example: Add the option to make it anywhere from 1x1 to 20x20
+   - Example: Add the option to make it anywhere from 1x1 to 20x20
  - Change Grid size automatically on window resize (Responsiveness)
- - Ability to change dataset (From animals to something else)
 
 ## Evaluation Criteria
  - Logic
