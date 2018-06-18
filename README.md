@@ -24,7 +24,7 @@ Bonus requirements are all completely optional but will show us extra initiative
    - How well and advanced your css techniques are.
    - Bonus points for using CSS Grid
  - React
-  - How well your react fundementals are and how well you separate functionality into components.
+  - How well your react fundamentals are and how well you separate functionality into components.
 
 Timeliness is also a huge factor. While there is no maximum time, we are evaluating candidates on a rolling basis so if you take too long, we may accept another candidate before we can evaluate you.
 
