@@ -29,4 +29,4 @@ Bonus requirements are all completely optional but will show us extra initiative
 Timeliness is also a huge factor. While there is no maximum time, we are evaluating candidates on a rolling basis so if you take too long, we may accept another candidate before we can evaluate you.
 
 # Submission
-Upon completion zip all new files (minus the node_modules folder) and email it to [dev@pairin.com](mailto:dev@pairin.com?Subject=Frontend%20Code%20Challenge)
+Upon completion upload your changes (minus node_modules) to a github.com repository and send it to [dev@pairin.com](mailto:dev@pairin.com?Subject=Frontend%20Code%20Challenge)
